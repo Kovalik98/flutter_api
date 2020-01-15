@@ -27,7 +27,7 @@ class CCListState extends State<CCList>{
     // TODO: implement build
     return Scaffold(
         appBar: AppBar(
-          title: Text('Awesome CC  Tracker'),
+          title: Text('Users'),
         ),
         body: Container(
 
